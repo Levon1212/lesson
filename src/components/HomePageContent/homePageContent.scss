@@ -1,0 +1,15 @@
+.homeContent{
+  height: calc(100vh - 101px);
+  background: #e3e3e3;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  .itemsWrapper{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+  }
+}
