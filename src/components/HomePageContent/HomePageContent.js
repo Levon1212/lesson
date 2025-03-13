@@ -7,7 +7,6 @@ import Image3 from "../../assets/images/image3.jpg";
 
 const HomePageContent = () => {
 
-
     let Anna = {
         name: 'Anna',
         image: Image1,

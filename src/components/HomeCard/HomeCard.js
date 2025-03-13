@@ -7,6 +7,7 @@ const HomeCard = ({name, image, description}) => {
             <img src={image} alt="product image" />
             <h3>{name}</h3>
             <p>{description}</p>
+            <button>Hello</button>
         </div>
     );
 };
